@@ -1,5 +1,5 @@
-![image](images/l.jpg)  # LOAN_DEFAULT_PREDICTION
-
+# LOAN_DEFAULT_PREDICTION
+![image](images/l.jpg)  
 ### PROJECT TITLE:
            LOAN_DEFAULT_PREDICTION using machine Learning Models.
            
