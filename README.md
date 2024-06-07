@@ -1,6 +1,6 @@
 # LOAN_DEFAULT_PREDICTION
 
-![image](images/logo.jpg) LOAN_DEFAULT_PREDICTION
+![image](images/l.jpg) LOAN_DEFAULT_PREDICTION
 
 PROJECT TITLE:
            LOAN_DEFAULT_PREDICTION using machine Learning Models.
