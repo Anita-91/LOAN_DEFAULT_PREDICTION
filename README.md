@@ -1,5 +1,4 @@
 # LOAN_DEFAULT_PREDICTION
-
 ![image](images/l.jpg)
 
 # PROJECT TITLE:
