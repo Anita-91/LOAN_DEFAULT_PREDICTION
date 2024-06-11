@@ -21,7 +21,7 @@
 ![image](images/pred_page.png) 
 ![image](images/analysis-1_.png)
 ![image](images/analysis-2.png) 
-![image](images/metric.png) 
+![image](images/metric_page.png) 
 ![image](images/about_page.png) 
 Libraries to import :: scikit-learn, imbalanced-learn, xgboost, streamlit , pandas, plotly
 
