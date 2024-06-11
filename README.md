@@ -7,7 +7,7 @@
   The primary goal of this project is to develop a predictive model that can assess the risk of loan default for loan applicants. The objective is to help financial institutions make informed decisions about whether to approve or reject loan applications.
 
 ### WORKFLOW:
-![image](images/l_flow.png)  
+![image](images/l_flow.png) 
 1. Data Preprocessing: 
 #### This task involves cleaning, transforming, and preparing the loan applicant data. It includes handling missing values, encoding categorical variables, and scaling or normalizing numerical features.
 2. Model Building: 
