@@ -19,8 +19,7 @@
 
 ![image](images/home_page.png) 
 ![image](images/pred_page.png) 
-![image](images/analysis-1_.png)
-![image](images/analysis-2.png) 
+![image](images/analysis-1.png)
 ![image](images/metric_page.png) 
 ![image](images/about_page.png) 
 
